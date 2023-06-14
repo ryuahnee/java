@@ -20,7 +20,6 @@ public class Ex04_10 {
 		System.out.println("sum="+sum);
 		System.out.println("num="+num);
 		
-
-	}
+	}//main
 
 }
